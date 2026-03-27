@@ -17,7 +17,7 @@ We used three main methods to analyze the data from 1990 to 2025:
 ## Project Poster
 You can see the full details, maps, and statistical results in our project poster below:
 
-![Earthquake Risk Project Poster](poster.jpg)
+![Earthquake Risk Project Poster]("C:\Users\edako\Downloads\Earthquake ML Model Approach .png")
 
 ## Authors
 - Buğra AKKUŞ
