@@ -14,14 +14,9 @@ We used three main methods to analyze the data from 1990 to 2025:
 2. **K-Means & Voronoi Tessellation:** To divide Turkey into mathematical "neighborhoods" (polygons) based on earthquake centers.
 3. **Kernel Density Estimation (KDE):** To create probability maps and show where future earthquakes might happen.
 
-## Project Poster
-You can see the full details, maps, and statistical results in our project poster below:
-
-![Earthquake Risk Project Poster]("C:\Users\edako\Downloads\Earthquake ML Model Approach .png")
-
 ## Authors
-- Buğra AKKUŞ
 - Mürüvvet Eda KOYUNCU
+- Buğra AKKUŞ
 - Supervisor: Prof. Dr. B. Burçak Başbuğ Erkan
 
 ---
